@@ -20,3 +20,5 @@ El script desarrollado en Python (Pandas) ejecuta el siguiente flujo:
 ## Resultados
 - **Automatización de hallazgos:** Reducción del tiempo de identificación de discrepancias de semanas a segundos.
 - **Subsaneamiento:** Identificación y soporte para la regularización de saldos pendientes de años anteriores en un 51% ($5.6M).
+
+_**Nota:** Los datos utilizados en este repositorio son ficticios y han sido generados únicamente con fines demostrativos de la lógica de programación. No representan información real de ninguna institución._
